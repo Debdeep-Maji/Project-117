@@ -1,0 +1,17 @@
+.body {
+    background-color: cornflowerblue;
+    font-family: 'Smooch', cursive;
+    color: white;
+    font-size: 30px;
+}
+
+#score {
+    font-size: large;
+    float: left;
+
+}
+
+#time {
+    font-size: large;
+    float: right;
+}
